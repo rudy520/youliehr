@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /siteadmin/
+Disallow: /wapadmin/
+Disallow: /api/
+Disallow: /data/
+Disallow: /config/
+Disallow: /install/
+Disallow: /member/
+Disallow: /app/
+Disallow: /js/
+Disallow: /weixin/
+Disallow: /error/
+Disallow: /job/*search*
+Disallow: /resume/*search*

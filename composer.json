@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-json": "*",
+        "qcloudsms/qcloudsms_php": "^0.1.4"
+    }
+}
